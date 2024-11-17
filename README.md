@@ -1,4 +1,4 @@
 # terraform
 
-##リポジトリ設定
+## リポジトリ設定
 Actions secrets and variables
