@@ -5,7 +5,6 @@ resource "aws_lb" "this" {
 }
 
 /*
-
 resource "aws_alb_target_group" "this" {
   name        = "test-tg"
   port        = 80
